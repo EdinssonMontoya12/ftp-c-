@@ -1,0 +1,8 @@
+D:\Curso\FTP\bin\Debug\FTP.exe.config
+D:\Curso\FTP\bin\Debug\FTP.exe
+D:\Curso\FTP\bin\Debug\FTP.pdb
+D:\Curso\FTP\obj\Debug\FTP.csproj.AssemblyReference.cache
+D:\Curso\FTP\obj\Debug\FTP.csproj.SuggestedBindingRedirects.cache
+D:\Curso\FTP\obj\Debug\FTP.csproj.CoreCompileInputs.cache
+D:\Curso\FTP\obj\Debug\FTP.exe
+D:\Curso\FTP\obj\Debug\FTP.pdb
